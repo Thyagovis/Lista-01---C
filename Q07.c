@@ -9,6 +9,5 @@ int main(){
 
     printf("O numero digitado ao quadrado: %d", num * num);
 
-    // num^1 deleta o bit menos significativo
     return 0;
 }
